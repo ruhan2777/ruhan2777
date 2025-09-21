@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ruhan  D Trivedi!
 
-🎓 **B.Tech in Electrical and Electronics Engineering**  
+🎓 **B.Tech in Electronics and Communication Engineering**  
 📍 Manipal Institute of Technology | Batch of 2025–2029  
 🔧 Aspiring Embedded Systems Engineer | 💡 Passionate about Innovation in ECE + AI  
 
@@ -10,14 +10,14 @@
 
 - 🧠 Exploring the intersection of **Electronics**, **AI**, and **Open Source**
 - 💻 Currently learning **Python**, **C**, and **Microcontroller Programming**
-- 📡 Interested in **IoT**, **VLSI**, **Cybersecurity**, and **Smart Tech for India**
+- 📡 Interested in **IoT**, **Embedded Systems**, **VLSI**, **Cybersecurity**, and **Smart Tech for India**
 - 📚 Always building side projects to turn ideas into working prototypes!
 
 ---
 
 ## 🔨 Projects 
 
-- MENTAL HEALTH APP FOR STUDENTS (https://v0-mental-health-app-delta-two.vercel.app/)
+-
 ---
 
 ## 📌 Goals for 2025
